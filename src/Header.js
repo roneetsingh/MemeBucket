@@ -2,7 +2,7 @@ import React from "react"
 
 function Header(){
     return(
-        <header className="text-center">
+        <header className="header">
             <img src="https://purepng.com/public/uploads/medium/big-chungus-z7y.png"
             alt="Problem?" class="center"
             />
