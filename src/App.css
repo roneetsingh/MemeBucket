@@ -9,7 +9,7 @@ header {
   }
 
 header> img {
-  height: 90%;
+  height: 100%;
   }
   
 header > h1 {
@@ -37,7 +37,7 @@ header > h1 {
   margin: 15px 0;
   padding: 0 5px; 
   font-family: impact, sans-serif;
-  font-size: 2em;
+  font-size: 3vw;
   text-transform: uppercase;
   color: white;
   letter-spacing: 1px;
