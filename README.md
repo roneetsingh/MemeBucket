@@ -14,7 +14,7 @@
 
 • A simple app to make top text and bottom text memes.
 
-• Integrated with [imgflip.com](https://imgflip.com api.
+• Integrated with [imgflip.com](https://imgflip.com) api.
 
 • Tech Used: ReactJS, Bootstrap, HTML/CSS.
 
