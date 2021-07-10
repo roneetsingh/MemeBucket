@@ -8,7 +8,7 @@
 - [Features](#features)
 - [Run](#run)
 - [License](#license)
-- [Getting Started with Create React App](#Getting Started with Create React App)
+- [Getting Started with Create React App](#getting-started-with-create-react-app)
 
 ## Introduction
 
@@ -51,7 +51,7 @@ Users can do the following:
 
 ## Run
 
--To run this application, please head to [Getting Started with Create React App](#Getting Started with Create React App)
+-To run this application, please head to [Getting Started with Create React App](#getting-started-with-create-react-app)
 
 ## License
 
