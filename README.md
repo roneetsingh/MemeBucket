@@ -8,6 +8,7 @@
 - [Features](#features)
 - [Run](#run)
 - [License](#license)
+- [Known Bugs](#known-bugs)
 - [Getting Started with Create React App](#getting-started-with-create-react-app)
 
 ## Introduction
@@ -60,6 +61,9 @@ Users can do the following:
 - MIT License
 - Copyright 2021 © [Roneet Kumar Singh](https://github.com/roneetsingh)
 
+## Known Bugs
+
+- While generating new meme templates, often some of them are not top-bottom text compatible. (For e.g. Multi-text templates) 
 
 ## Getting Started with Create React App
 
